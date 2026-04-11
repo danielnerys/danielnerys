@@ -1,6 +1,3 @@
-## Hi, Im Daniel!
- 
-
 ---
 # 👋 Hi, I'm Daniel
 
