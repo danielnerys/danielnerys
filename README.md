@@ -5,7 +5,7 @@
 
 ## 🚀 My Skills
 
-<code><img height="32" src="https://wiki.thema.inf.br/wiki/upload/2014/7/java1-15165951.png" alt="java"/></code>
+<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="java"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1280px-Python.svg.png" alt="python"/></code>
 <code><img height="32" src="https://enotas.com.br/blog/wp-content/uploads/2021/02/GitHub.jpg" alt="github"/></code>
 <code><img height="32" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="git"/></code>
