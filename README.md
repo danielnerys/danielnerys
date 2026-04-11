@@ -1,4 +1,3 @@
----
 # 👋 Hi, I'm Daniel
 
 💻 Backend Developer focused on building scalable and efficient applications.
