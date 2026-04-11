@@ -35,7 +35,7 @@
 
 ## 📊 GitHub Stats
 
-[![daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danielnerys)](https://github.com/danielnerys/github-readme-stats)
+
 
 ## 📫 Contact
 
